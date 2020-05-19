@@ -1,7 +1,7 @@
 # CSCI561_AI_HalmaGamePlayingAgent
   Halma game playing agent.<br/>**Algorithm used:** Minimax Game playing algorithm with alpha-beta pruning.
   
-  ![](images/halma1.png)
+  ![](images/halma.gif)
   
   ## About the Game
   Halma is a strategy board game invented in 1883 or 1884 by George Howard Monks, a US thoracic surgeon at Harvard Medical School. His inspiration was the English game Hoppity which was devised in 1854. The gameboard is checkered and divided into 16×16 squares. Pieces may be small checkers or counters, or wooden or plastic cones or men resembling small chess pawns.[2] Piece colors are typically black and white for two-player games, and various colors or other distinction in games for four players.
